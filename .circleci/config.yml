@@ -3,7 +3,8 @@
 version: 2.1
 
 orbs:
-  slack: circleci/slack@4.4.4
+  slack: orbs:
+  slack: circleci/slack@4.12.1
 
 
 # Define a job to be invoked later in a workflow.
