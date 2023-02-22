@@ -3,7 +3,6 @@
 version: 2.1
 
 orbs:
-  slack: orbs:
   slack: circleci/slack@4.12.1
 
 
